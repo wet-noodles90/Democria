@@ -3,4 +3,4 @@
 /youreconomybot/config.py
 
 # Ignored cuz this is my database, not yours get your own (jk the bot generates one for you)
-yourpresidentialadvisor\democracy.db
+/yourpresidentialadvisor/democracy.db
